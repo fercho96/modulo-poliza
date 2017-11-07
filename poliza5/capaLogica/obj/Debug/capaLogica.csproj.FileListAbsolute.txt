@@ -1,0 +1,7 @@
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.pdb

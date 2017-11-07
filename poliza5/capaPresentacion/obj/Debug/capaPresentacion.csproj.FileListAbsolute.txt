@@ -1,0 +1,10 @@
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\bin\Debug\capaPresentacion.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.cuenta.resources
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.poliza.resources
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaPresentacion\bin\Debug\capaLogica.pdb
